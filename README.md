@@ -10,6 +10,8 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ## Overview
 
+![](./doc-img/sample.png)
+
 - work in progress
 
 ### Let's get started
