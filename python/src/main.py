@@ -35,7 +35,7 @@ for step in range(c_num_steps):
 
     if info["lives"] != l_live:
         l_live = info["lives"]
-        trigger_event("Loose Live (Warn)")
+        trigger_event("Lost Live (Warn)")
         print_game_info(g_info=info, g_reward=l_reward, step_n=step)
 
     if info["lives"] == 0:
