@@ -11,3 +11,8 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 ## Overview
 
 - work in progress
+
+### Let's get started
+
+- Create virtual python env
+- Install requirements (see script in ``python/``)
