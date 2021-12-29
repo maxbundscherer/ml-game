@@ -12,6 +12,12 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ![](./doc-img/sample.gif)
 
+*Included Breakout sample*
+
+![](./doc-img/sample2.gif)
+
+*Included CartPole sample*
+
 ### Features
 
 - Testing reinforcement learning algorithms with python and [gym](https://gym.openai.com/)
