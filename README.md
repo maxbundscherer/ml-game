@@ -16,6 +16,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 - Testing reinforcement learning algorithms with python and [gym](https://gym.openai.com/)
 - Game [Breakout-v0](https://gym.openai.com/envs/Breakout-v0/) included
+- Game [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/) included
 - PyTorch implementation included
 
 ### Requirements
