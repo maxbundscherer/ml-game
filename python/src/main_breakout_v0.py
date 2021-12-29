@@ -1,4 +1,4 @@
-import trainer.mlp_trainer_breakout_v0 as mlp_trainer
+import breakout.mlp_trainer_breakout_v0 as mlp_trainer
 
 import gym
 import time
