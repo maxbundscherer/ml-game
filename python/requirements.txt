@@ -1,2 +1,6 @@
 gym[atari,accept-rom-license]==0.21.0
 pyglet
+torch
+matplot
+scikit-image
+numpy
